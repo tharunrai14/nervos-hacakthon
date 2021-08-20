@@ -4,14 +4,14 @@ Issue a Smart Contract Call to the Deployed Smart Contract
 
 <b>A screenshot of the console output immediately after you have successfully issued a smart contract call.
 
-![screenshot of console](https://github.com/tharunrai14/nervos-hackathon/blob/main/task03/task03console.jpg)
+![screenshot of console](https://github.com/tharunrai14/nervos-hackathon/blob/main/task03/task03consoleedit.jpg)
 
 
 The transaction hash from the console output (in text format).
 
 <code>
 
-0xa37cfeec8d27abff3978157b6300ead3c5575244de68658a1a4af24192fce6a6
+0xefa7fcd8d0bd58b2028bbbf6b823e4aacd22ce3439524d0130831d253857a813
 </code>
 
 
